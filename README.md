@@ -29,8 +29,6 @@ This code takes as its starting point the source code proposed by [Adil Moujahid
 
 ## How to run the code
 
-We recommend using an IDE like PyCharm to run the code. 
-
 1. To start a blockchain node, go to blockchain folder and execute the command below: 
     ```python
     python server_api.py -p 5000
