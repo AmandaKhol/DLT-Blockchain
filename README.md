@@ -53,4 +53,4 @@ We recommend using an IDE like PyCharm to run the code.
 
     ```python
     python initialize.py
-    ```# DLT-Blockchain
+    ```
